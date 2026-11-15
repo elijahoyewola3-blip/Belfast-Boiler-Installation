@@ -1,0 +1,6 @@
+{
+  "name": "Belfast Boiler Installations",
+  "description": "Family-run, Gas Safe Registered heating company in Belfast with 30+ years' experience. Boiler installations, oil-to-gas conversions, servicing, and 7-year warranties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
